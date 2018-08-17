@@ -40,7 +40,7 @@ namespace PUBG
             if (e.Delta > 0 && ARScopeCount != 0)
             {
                 ARScopeCount--;
-                pictureBox2.Image = ARScope.Images[ARScopeCount]
+                pictureBox2.Image = ARScope.Images[ARScopeCount];
 
                 if (ARcount == 2 && ARScopeCount == 4)
                 {
