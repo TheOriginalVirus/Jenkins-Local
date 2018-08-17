@@ -1,0 +1,9 @@
+C:\Users\Dylan van Vuuren\Desktop\PUBG\PUBG\PUBG\bin\Debug\PUBG.exe.config
+C:\Users\Dylan van Vuuren\Desktop\PUBG\PUBG\PUBG\bin\Debug\PUBG.exe
+C:\Users\Dylan van Vuuren\Desktop\PUBG\PUBG\PUBG\bin\Debug\PUBG.pdb
+C:\Users\Dylan van Vuuren\Desktop\PUBG\PUBG\PUBG\obj\Debug\PUBG.csprojResolveAssemblyReference.cache
+C:\Users\Dylan van Vuuren\Desktop\PUBG\PUBG\PUBG\obj\Debug\PUBG.Form1.resources
+C:\Users\Dylan van Vuuren\Desktop\PUBG\PUBG\PUBG\obj\Debug\PUBG.Properties.Resources.resources
+C:\Users\Dylan van Vuuren\Desktop\PUBG\PUBG\PUBG\obj\Debug\PUBG.csproj.GenerateResource.Cache
+C:\Users\Dylan van Vuuren\Desktop\PUBG\PUBG\PUBG\obj\Debug\PUBG.exe
+C:\Users\Dylan van Vuuren\Desktop\PUBG\PUBG\PUBG\obj\Debug\PUBG.pdb
